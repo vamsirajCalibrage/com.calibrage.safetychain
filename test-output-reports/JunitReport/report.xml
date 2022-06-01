@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="296.731">
+    <testcase classname="feature to test Records SignOff in Link" name="Validate All the fields in the Grid view in Records Page" time="296.516">
+        <system-out><![CDATA[Given User is on login page.................................................passed
+When User enters username and password......................................passed
+And Clicks on login button..................................................passed
+Then User navigated to the home page........................................passed
+And User click on Link under Hamburger icon in webpage......................passed
+And User click on Record Under Hamburger in Link HomePage...................passed
+Then User verify all the fields in the Grid view Page.......................passed
+And User Verify all fields in group and verify dropdown in Grid view Page...passed
+]]></system-out>
+    </testcase>
+</testsuite>
